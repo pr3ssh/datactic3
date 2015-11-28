@@ -19,8 +19,8 @@ $('#content').ascensor({
 	ReturnCode:false,
 	
 	ChocolateAscensor:true,
-	AscensorMap: '4|1',
-	ContentCoord: '1|1 & 1|2 & 1|3 & 1|4'
+	AscensorMap: '5|1',
+	ContentCoord: '1|1 & 1|2 & 1|3 & 1|4 & 1|5'
 });
 
 });

@@ -75,7 +75,7 @@ ul.big > li {
 }
 ul.big > li:before {
     content: " =>| ";
-    color: #c4c4c4;
+    color: #D11E48;
 }
 ul.small {font-size: 1em;}
 ul.small > li {
@@ -120,21 +120,24 @@ ul.small > li > a {
 #house0 h1 { margin-bottom: 100px }
 #house1,
 #house2,
-#house3 { background: #A1C5AB; }
+#house3,
+#house4 { background: #A1C5AB; }
 #house1 p,
 #house2 p,
-#house3 p {
+#house3 p,
+#house4 p {
     color: #632F53;
     margin-bottom: 10px;
 }
 #house1 a,
 #house2 a,
-#house3 a {
+#house3 a,
+#house4 a {
     color: #632F53;
     text-decoration: none;
     font-weight: bold;
 }
 #house1 h2,
 #house2 h2,
-#house3 h2 { margin-bottom: 40px; }
-#house2 { background: #A1C5AB; }
+#house3 h2,
+#house4 h2 { margin-bottom: 40px; }
